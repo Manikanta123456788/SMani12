@@ -1,0 +1,67 @@
+.a1{
+    display:inline-block ;
+    margin: 50px;
+}
+.B{
+    padding: 10px;
+    display: inline-flex;
+    text-decoration: none;
+}
+.A{
+    background-color: yellow;
+    position: fixed;
+    width: 1478px;
+    display: inline-flex;
+    
+}
+.a2{
+    display:inline-block;
+    margin-left:80px;
+}
+.a3{
+    background-color: green;
+    color: white;
+}
+.a4{
+    background-color: red;
+    color: white;
+}
+h3{
+    color:rgb(41, 178, 34);
+}
+h1{
+    color:chocolate ;
+}
+*{
+    margin: 0px;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: blue;
+}
+footer{
+    background-color: black;
+    padding: 50px;
+}
+.container{
+    width: 1500px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.c1{
+    width: 190px;
+    margin: auto;
+    padding: 7px;
+}
+a{
+    text-decoration: none;
+}
+.c3{
+    text-align: center;
+    padding: 20px;
+}
+.a1:hover{
+    opacity: 50px;
+}
+
